@@ -108,6 +108,6 @@ Each observation in this file is the mean of each of the variables for a subject
 * Label **data** set with descriptive variable names.
 * install and load dplyr.
 * Group **data** by subject and activity.
-* Get the average of each variable for each activity and subject and create **tideData**.
+* Get the average of each variable for each activity and subject and create **tidyData**.
 * Write **tidyData** into **tidy_data.csv** in the working directory.
 
