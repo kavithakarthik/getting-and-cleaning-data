@@ -10,7 +10,7 @@ This repo contains:
 
 ## About run_analysis.R
 
-If the data files for this project is not in your working directory, the script will automatically donwnload it to your working directory, then will unzip it.
+If the data files for this project is not in your working directory, the script will automatically download it to your working directory, then will unzip it.
 
 For creating tidy data, this script uses dplyr package, if it is not installed in your system, the script will automaticaly install.
 
