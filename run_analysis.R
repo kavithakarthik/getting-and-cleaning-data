@@ -65,5 +65,5 @@ run_analysis <- function() {
   # Get the average of each variable for each activity and subject
   tidyData <- summarize_all(groupedData, mean)
   # Write tidyData into tidy_data.csv in the working directory
-  write.table(tidyData, "./tidy_data.csv", sep = ",", row.name=FALSE)
+  write.table(tidyData, "./tidy_data.txt", sep = ",", row.name=FALSE)
 }
