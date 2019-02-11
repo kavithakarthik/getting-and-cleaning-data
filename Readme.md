@@ -16,7 +16,7 @@ For creating tidy data, this script uses dplyr package, if it is not installed i
 
 ## About CodeBook
 
-The CodeBook.md file explains the transformations performed and the resulting data and variables.
+The CodeBook.md file explains the original data set and the resulting data and variables.
 
 ## About tidy_data.csv
 
